@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "vacio:lib"
+
+    - path: "./test"
+      component: "vacio:test:vacio-test"
